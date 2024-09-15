@@ -46,19 +46,19 @@ p {
     width: 15px;
     height: 15px;
     border: 2px solid  bisque;
-    border-radius: 5px;
-    background-color:blanchedalmond;
-
-}
-.slider_dot:hover {
-    background-color: black;
-    cursor: alias;
+    border-radius: 7px;
 }
 .slider_dot:active {
-    background-color: white;
-    border: 2px solid white;
-    cursor: alias;
+    background-color: bisque;   
 }
+.slider_dot:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+.active_dot {
+    background-color: bisque;
+}
+
 .phrase {
     height: 40px;
     padding: 20px 5px;
