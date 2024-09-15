@@ -1,1 +1,1 @@
-https://julistrom.github.io/cssMemeSlider/index.html/
+https://julistrom.github.io/cssMemeSlider/cssMemeSlider/index.html/
